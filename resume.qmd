@@ -13,77 +13,65 @@ BYU-Idaho Student studying Economics, Data Science & Mathematics.
 
 ## Currently
 
-Standing on the shoulders of giants
+__Housing and Student Living Office| Lead Office Assistant| Rexburg, Idaho| April 2024 - Present__
 
-### Specialized in
+ Housing department for Brigham Young University of Idaho
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+ -Addressed housing needs within the BYU-Idaho student population through consistent communication 
+with over 60 different properties
+ -Utilized and edited code for analysis of over 890 responses to a survey for students living in student 
+approved housing in Visual Code Studio using Python
+ -Formed part of a hiring board of 3 employees to review over 120 candidates for open position through 
+series of filtering by resumes, cover letters, and interviews
+ -Audited debt owed and paid for an apartment complex of over 800 students and system information for 
+ over 30 apartment complexes and properties
+
+### Skills
+
+__Programs__: MS Word, Excel, Python, R & R Markdown, SQL
+ 
+__Management__: Conflict Resolution,  Analytical Thinking, Financial Management, Adaptability, Presentation, Public Speaking, Problem-Solving, Project Management, Communication
+
+ __Languages__: Fluent Portuguese, Conversational Spanish
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Energy Markets, Nuclear Energy, Critical Minerals and Natural Resources, Housing Markets, Industrial Organization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Bachelor of Science in Economics | March 2024 - July 2027__
+ Brigham Young University - Idaho | 3.99 GPA
+ Minor: Data Science, Mathematics
+ Micro/Macro Economics, Excel, International Economics, Statistics for Economists, International
 
 
 
-## Awards
+## Leadership Experience and Activities
 
-`2012`
-President, *Royal Society*, London, UK
+__Curb Painting Business- Salesman/Curb Painter – Salesman; Idaho Falls, Idaho__
+ June 2021 - August 2024
+ -Generated roughly $1,600 in revenue over course of a summer in door-to-door sales in painting curbs in 
+ 40 hours of total work time, surveyed over 50 neighborhoods
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+ __Church of Jesus Christ of Latter Day Saints – Assistant to the President; Brazil, Vitoria__
+ June 2022 - March 2024
+ -Led over 110 full-time volunteers in daily service through trainings, goal management, and weekly 
+accountability meetings (Assistant to the President)
+ -Delegated assignments in over 30 organization-wide meetings and in larger gatherings organized 8 
+organizational transfers by working with and delegating tasks to other full-time volunteers
+ -Budgeted, audited, and analyzed mission finances monthly to meet organizational goals (Financial 
+ Secretary) using Excel, Power BI, and through updating monthly expense reports
 
 
-## Occupation
+## Research
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+https://www.linkedin.com/feed/update/urn:li:activity:7353528492719841280/?originTrackingId=VTRnztPyepetlwBr5bhp5w%3D%3D
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2025 -->
